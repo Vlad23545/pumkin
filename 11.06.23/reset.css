@@ -1,0 +1,21 @@
+ul li{
+    list-style-type: none;
+    float: right;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    padding: 10px;
+}
+a:hover{
+    color: brown;
+    background-color: sandybrown;
+}
+img:hover{
+    opacity: 0.5;/*прозорість*/
+    transform: scale(1.1);/*зміна розміру зображення*/
+    outline: 5px solid sandybrown; /*рамка для фото*/
+    outline-offset: 5px; /*відступ між рамкою та фото*/
+}

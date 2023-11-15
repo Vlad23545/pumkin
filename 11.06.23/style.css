@@ -1,0 +1,48 @@
+li{
+    padding-inline: 20px;
+    text-align: center;
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+    padding-bottom: 10px;
+}
+header{
+    background: rgb(172, 255, 172);
+}
+main{
+    margin: 0 auto;
+    width: 70%;
+}
+h3{
+    font-family: 'Lobster', sans-serif;
+}
+.content-img{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+h1, h2, p{
+    font-family: 'Oswald', sans-serif;
+}
+footer{
+    background: rgb(0, 86, 0);
+    color: aliceblue;
+    height: 200px;
+}
+.footer-text{
+    text-align: center;
+    padding-top: 80px;
+}
+h1,h3{
+    display: inline;
+}
+h3{
+    margin-left: 850px;
+}
+a:hover{
+    background-color: aliceblue;
+}
+a{
+    padding: 10px;
+    background-color: rgb(209, 245, 173);
+}
